@@ -35,7 +35,7 @@ if you have any question don't hesitate to contact : delamare.mickael5@gmail.com
 ## Result demo in movie for OAD dataset :
 
 <video controls="controls">
-  <source type="video/mp4" src="Films et TV 2020-09-25 14-24-14_Trim.mp4.mp4"></source>
+  <source type="video/mp4" src="Films et TV 2020-09-25 14-24-14_Trim.mp4"></source>
     <p>Your browser does not support the video element.</p>
 </video>
 
