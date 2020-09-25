@@ -1,9 +1,7 @@
 # SW-GCN
 
 # Main page of Graph Convolutional Networks Skeleton-Based Action Recognition for Continuous Data Stream : A Sliding Window Approach done by [ESIGELEC](https://www.esigelec.fr/) and [SIATECH](https://www.siatech.fr/)
-<p align="center">
-<img src="Front_view.jpg" width="600">
-</p>
+
 
  
 
@@ -36,8 +34,6 @@ if you have any question don't hesitate to contact : delamare.mickael5@gmail.com
 
 ## Result demo in movie for OAD dataset :
 
-Slide With Code
-========================================================
 <video autosize=true>
   <source src="movie.mp4" type="video/mp4">
 </video>
