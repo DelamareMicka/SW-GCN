@@ -35,7 +35,7 @@ if you have any question don't hesitate to contact : delamare.mickael5@gmail.com
 ## Result demo in movie for OAD dataset :
 
 <p align="center">
-<img src="final_dem_v2.gif.gif">
+<img src="final_dem_v2.gif">
 </p>
 
 
