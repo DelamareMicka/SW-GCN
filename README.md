@@ -25,10 +25,11 @@ Submitted to VISAPP Conference
 
 ## Code :
 You will find in repository two files : 
-  -Data Processing for OAD 
-  -Data Processing for UOW action 3D dataset
-  -The algorithm trained for OAD
-  -The algorthm trained fot UOW action 3D dataset
+  -Data Processing for OAD  
+  -Data Processing for UOW action 3D dataset  
+  -The algorithm trained for OAD (SW-GCN-OAD.pt)  
+  -The algorthm trained fot UOW action 3D dataset (SW-GCN-UOW.pt)  
+  -The algorithm trained for UOW action 3D dataset (SW-CNN.pt)
   
 if you have any question don't hesitate to contact : delamare.mickael5@gmail.com
 
