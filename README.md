@@ -12,7 +12,7 @@ This paper introduces a novel deep learning based approach to human activity rec
 
 ## OAD dataset
 
-# Confusion matrix and statistics of Validation for OAD dataset : 
+### Confusion matrix and statistics of Validation for OAD dataset : 
 
 <p align="center">
 <img src="Statistics_validation_OAD.PNG">
@@ -21,7 +21,7 @@ This paper introduces a novel deep learning based approach to human activity rec
 <img src="Confusion_matrix_validation_OAD.PNG">
 </p>
 
-# Confusion matrix and statistics of Test for OAD dataset : 
+### Confusion matrix and statistics of Test for OAD dataset : 
 
 <p align="center">
 <img src="Statistics_test_OAD.PNG">
@@ -31,7 +31,7 @@ This paper introduces a novel deep learning based approach to human activity rec
 </p>
 
 
-# Confusion matrix and statistics of Validation for UOW dataset : 
+### Confusion matrix and statistics of Validation for UOW dataset : 
 
 <p align="center">
 <img src="Statistics_validation_UOW.PNG">
@@ -40,13 +40,13 @@ This paper introduces a novel deep learning based approach to human activity rec
 <img src="Confusion_matrix_validation_UOW.PNG">
 </p>
 
-# Confusion matrix and statistics of Test for UOW dataset : 
+### Confusion matrix and statistics of Test for UOW dataset : 
 
 <p align="center">
 <img src="Statistics_test_UOW.PNG">
 </p>
 <p align="center">
-<img src="Confusion_matrix_testUOW.PNG">
+<img src="Confusion_matrix_test_UOW.PNG">
 </p>
 
 ## Paper :
