@@ -12,15 +12,20 @@ This paper introduces a novel deep learning based approach to human activity rec
 
 ## OAD dataset
 
-#Confusion matrice and statistics of Validation : 
-<p align="left">
+#Confusion matrix and statistics of Validation for OAD dataset : 
+<p align="center">
 <img src="Statistics_validation_OAD.PNG">
 </p>
-<p align="right">
+<p align="center">
 <img src="Confusion_matrix_validation_OAD.PNG">
 </p>
-
-
+#Confusion matrix and statistics of Test for OAD dataset : 
+<p align="center">
+<img src="Statistics_test_OAD.PNG">
+</p>
+<p align="center">
+<img src="Confusion_matrix_testOAD.PNG">
+</p>
 ## Paper :
 
 Mickael Delamare<sup>1</sup><sup>2</sup>, Cyril Laville<sup>1</sup>, Adnane Cabani<sup>2</sup>,Houcine Chafouk<sup>2</sup>.  
