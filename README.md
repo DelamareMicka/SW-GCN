@@ -10,6 +10,17 @@
 <p style="text-align:justify";>
 This paper introduces a novel deep learning based approach to human activity recognition. The method consists of a Spatio-Temporal Graph Convolutional Network  operating in real time thanks to a sliding window approach. The proposed architecture consists of a fixed window for train, validation and test process with a Spatio-Temporal-Graph Convolutional Network for skeleton-based action recognition. We evaluate our architecture on two available datasets of common continuous stream action recognition, the Online Action Detection dataset and UOW Online Action 3D datasets. This method is used for temporal detection and classification of the performed action recognition in real time.</p>
 
+## OAD dataset
+
+#Confusion matrice and statistics of Validation : 
+<p align="left">
+<img src="Statistics_validation_OAD.PNG">
+</p>
+<p align="right">
+<img src="Confusion_matrix_validation_OAD.PNG">
+</p>
+
+
 ## Paper :
 
 Mickael Delamare<sup>1</sup><sup>2</sup>, Cyril Laville<sup>1</sup>, Adnane Cabani<sup>2</sup>,Houcine Chafouk<sup>2</sup>.  
