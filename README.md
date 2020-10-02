@@ -30,7 +30,8 @@ This paper introduces a novel deep learning based approach to human activity rec
 <img src="Confusion_matrix_testOAD.PNG">
 </p>
 
-
+## UOW dataset
+### SW-GCN method
 ### Confusion matrix and statistics of Validation for UOW dataset : 
 
 <p align="center">
@@ -49,6 +50,23 @@ This paper introduces a novel deep learning based approach to human activity rec
 <img src="Confusion_matrix_test_UOW.PNG">
 </p>
 
+### SW-CNN method
+ ### Confusion matrix and statistics of Validation for UOW dataset : 
+<p align="center">
+<img src="Statistics_validation_UOW_cnn.PNG">
+</p>
+<p align="center">
+<img src="Confusion_matrix_validation_UOW_cnn.PNG">
+</p>
+
+### Confusion matrix and statistics of Test for UOW dataset : 
+
+<p align="center">
+<img src="Statistics_test_UOW_cnn.PNG">
+</p>
+<p align="center">
+<img src="Confusion_matrix_test_UOW_cnn.PNG">
+</p>
 ## Paper :
 
 Mickael Delamare<sup>1</sup><sup>2</sup>, Cyril Laville<sup>1</sup>, Adnane Cabani<sup>2</sup>,Houcine Chafouk<sup>2</sup>.  
