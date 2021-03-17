@@ -83,6 +83,7 @@ How to cite :
 >}
 
 DOI : 10.5220/0010234904270435
+
 LINK : https://www.scitepress.org/Papers/2021/102349/102349.pdf
 
 Submitted to VISAPP Conference
