@@ -77,8 +77,11 @@ Mickael Delamare<sup>1</sup><sup>2</sup>, Cyril Laville<sup>1</sup>, Adnane Caba
 How to cite :
 
 >@article{delamare122021graph,
+ 
  > title={Graph Convolutional Networks Skeleton-based Action Recognition for Continuous Data Stream: A Sliding Window Approach},
+ 
  > author={Delamare12, Mickael and Laville, Cyril and Cabani, Adnane and Chafouk, Houcine},
+ 
  > year={2021}
 >}
 
