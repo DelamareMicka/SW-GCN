@@ -74,9 +74,16 @@ Mickael Delamare<sup>1</sup><sup>2</sup>, Cyril Laville<sup>1</sup>, Adnane Caba
 <sup>1</sup>[siatech](https://www.siatech.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN,mickael.delamare@siatech.fr   
 <sup>2</sup>[ESIGELEC](http://www.esigelec.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN, adnane.cabani@esigelec.fr
 
-Link : 
+How to cite :
 
-DOI : 
+>@article{delamare122021graph,
+ > title={Graph Convolutional Networks Skeleton-based Action Recognition for Continuous Data Stream: A Sliding Window Approach},
+ > author={Delamare12, Mickael and Laville, Cyril and Cabani, Adnane and Chafouk, Houcine},
+ > year={2021}
+>}
+
+DOI : 10.5220/0010234904270435
+LINK : https://www.scitepress.org/Papers/2021/102349/102349.pdf
 
 Submitted to VISAPP Conference
 
